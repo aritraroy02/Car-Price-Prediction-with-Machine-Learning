@@ -50,7 +50,7 @@ car-price-prediction/
 1. Clone this repository:
    ```bash
    git clone https://github.com/aritraroy02/car-price-prediction-with-machine-learning.git
-   cd car-price-prediction
+   cd car-price-prediction-with-machine-learning
    ```
 
 2. Install dependencies:
